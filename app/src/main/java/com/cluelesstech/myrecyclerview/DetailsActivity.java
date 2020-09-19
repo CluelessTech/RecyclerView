@@ -1,4 +1,4 @@
-package com.priyankgandhi.myrecyclerview;
+package com.cluelesstech.myrecyclerview;
 
 import androidx.appcompat.app.AppCompatActivity;
 

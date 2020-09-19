@@ -1,4 +1,4 @@
-package com.priyankgandhi.myrecyclerview.Model;
+package com.cluelesstech.myrecyclerview.Model;
 
 public class ListItem {
     private String name, description, rating;

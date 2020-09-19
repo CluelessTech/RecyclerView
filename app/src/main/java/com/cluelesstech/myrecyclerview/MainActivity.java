@@ -1,4 +1,4 @@
-package com.priyankgandhi.myrecyclerview;
+package com.cluelesstech.myrecyclerview;
 
 import android.os.Bundle;
 import android.view.Window;
@@ -8,8 +8,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.priyankgandhi.myrecyclerview.Adapter.Adapter;
-import com.priyankgandhi.myrecyclerview.Model.ListItem;
+import com.cluelesstech.myrecyclerview.Adapter.Adapter;
+import com.cluelesstech.myrecyclerview.Model.ListItem;
 
 import java.util.ArrayList;
 import java.util.List;

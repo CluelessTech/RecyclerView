@@ -1,4 +1,4 @@
-package com.priyankgandhi.myrecyclerview.Adapter;
+package com.cluelesstech.myrecyclerview.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,9 +10,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.priyankgandhi.myrecyclerview.DetailsActivity;
-import com.priyankgandhi.myrecyclerview.Model.ListItem;
-import com.priyankgandhi.myrecyclerview.R;
+import com.cluelesstech.myrecyclerview.DetailsActivity;
+import com.cluelesstech.myrecyclerview.Model.ListItem;
+import com.cluelesstech.myrecyclerview.R;
 
 import java.util.List;
 
